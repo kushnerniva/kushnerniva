@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🌱 I’m currently a Global Change Geography MSc student (2nd semester) at Humboldt Universität zu Berlin. 
+🌱 I’m currently a Global Change Geography MSc student (2nd semester) at Humboldt Universität zu Berlin.
+
 ⭐ I am a physical geographer interested in using spaceborne remote sensing to study natural hazard events, specifically wildfire and drought. I am also interested in exploring the intersection between natural hazards and social vulnerability, which specifically relate to resilience. 
 <!--
 **kushnerniva/kushnerniva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
